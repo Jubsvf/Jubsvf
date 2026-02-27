@@ -18,7 +18,7 @@ Focada em transformar grandes volumes de dados em decisões estratégicas. Atual
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Análise & BI** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 | **Automação & CRM** | ![Bitrix24](https://img.shields.io/badge/Bitrix24-21A3DC?style=for-the-badge&logo=bitrix24&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ---
@@ -29,7 +29,6 @@ Focada em transformar grandes volumes de dados em decisões estratégicas. Atual
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jubsvf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubsvf&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-
 ---
 
 ### 🎬 Além dos Dados:
