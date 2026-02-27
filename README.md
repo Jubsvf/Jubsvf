@@ -23,11 +23,10 @@ Focada em transformar grandes volumes de dados em decisões estratégicas. Atual
 
 ---
 
-### 📊 Minhas Estatísticas:
+### 📊 Atividade no GitHub:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jubsvf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubsvf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubsvf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
