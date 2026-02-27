@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Jubsvf
-- 👀 I’m interested in books and music
-- 🌱 I’m currently learning css and html
-- 😄 Pronouns: she/her
-
-<!---
-Jubsvf/Jubsvf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="width: 200px;">
+<a href="https://github.com/Jubsvf/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
