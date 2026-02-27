@@ -1,30 +1,29 @@
-# Olá, eu sou a Julia Vieira  👋
+# Olá, eu sou a Julia Vieira 👋
 
-### 🎓 Engenheira de Software em Formação
-Atualmente cursando o 5º período e apaixonada por transformar café em código e soluções inteligentes.
-
----
-
-### 🛠️ No que estou trabalhando:
-- 🔭 Atualmente trabalhando como **Assistente de Integração na Libe Sales**.
-- ⚙️ Focada em automações com **Bitrix24** e implementação de **IAs**.
-- 🎮 Desenvolvendo um projeto de **Game Quiz no Scratch** para iniciação científica.
-- 📱 Aprofundando estudos em **Flutter, Dart e Python**.
+### 📊 Aspirante a Analista de Dados | Engenheira de Software em Formação
+Focada em transformar grandes volumes de dados em decisões estratégicas. Atualmente unindo conhecimentos de Engenharia de Software com ferramentas de BI e análise preditiva.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas:
+### 🛠️ No que estou focada agora:
+- 📈 **Data Analytics:** Desenvolvimento de dashboards interativos e relatórios no **Power BI** e **Excel**.
+- 🐍 **Python para Dados:** Manipulação e limpeza de dados com foco em automação.
+- 🔭 **Assistente de Integração na Libe Sales:** Otimizando processos e fluxos utilizando **IA** e **Bitrix24**.
+- 🎮 **Iniciação Científica:** Desenvolvendo um projeto de Game Quiz no Scratch focado em lógica e engajamento.
+
+---
+
+### 🚀 Stack de Dados & Ferramentas:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
-| **CRM & Automação** | ![Bitrix24](https://img.shields.io/badge/Bitrix24-21A3DC?style=for-the-badge&logo=bitrix24&logoColor=white) |
-| **Organização** | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **Análise & BI** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Automação & CRM** | ![Bitrix24](https://img.shields.io/badge/Bitrix24-21A3DC?style=for-the-badge&logo=bitrix24&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 Minhas Estatísticas:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jubsvf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -33,12 +32,12 @@ Atualmente cursando o 5º período e apaixonada por transformar café em código
 
 ---
 
-### 🎬 Fora do código:
-- 🎥 Cinéfila assumida (me acompanhe no [Letterboxd]((https://letterboxd.com/julia_vieira16/)))
-- ⚡ Buscando sempre otimizar processos com IA e automação.
+### 🎬 Além dos Dados:
+- 🎥 Cinéfila e usuária ativa do **[Letterboxd](https://letterboxd.com/julia_vieira16/)**.
+- ⚡ Entusiasta de produtividade, organização e automação de processos.
 
 ---
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/juliafariavieira/)
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliafariavieira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliafavieira@gmail.com)
